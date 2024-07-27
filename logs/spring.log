@@ -1,0 +1,4 @@
+2024-07-28T04:40:04.986+08:00  INFO 19164 --- [Lavalink] [main] lavalink.server.Launcher                 : Starting Launcher v4.0.7 using Java 22.0.1 with PID 19164 (C:\Users\Charles\Desktop\lavalink-server\Lavalink.jar started by Charles in C:\Users\Charles\Desktop\lavalink-server)
+2024-07-28T04:40:05.042+08:00  INFO 19164 --- [Lavalink] [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2024-07-28T04:40:05.955+08:00  INFO 19164 --- [Lavalink] [main] l.server.bootstrap.PluginManager         : Downloading https://maven.lavalink.dev/releases/dev/lavalink/youtube/youtube-plugin/1.5.0/youtube-plugin-1.5.0.jar
+2024-07-28T04:40:16.978+08:00  INFO 19164 --- [Lavalink] [main] l.server.bootstrap.PluginManager         : Downloading https://maven.lavalink.dev/releases/com/github/topi314/lavasrc/lavasrc-plugin/4.2.0/lavasrc-plugin-4.2.0.jar
